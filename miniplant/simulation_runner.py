@@ -138,6 +138,7 @@ if __name__ == "__main__":
     bottom = res[-2]
     side = res[-1]
     print(f"SIMU ENDED - bottom={bottom} side={side}")
+    # Stefan check for Dario
 
     # run_direct_simulation(tilt_angle=10, render=True, workers=1, include_dye=True)
     input()
